@@ -1,4 +1,5 @@
 package com.stolpe;
+import com.stolpe.*;
 
 public class FunctionArguments {
     private Complex a;
